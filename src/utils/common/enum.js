@@ -1,7 +1,7 @@
 const EMAIL_STATUS = {
    PENDING: 'pending',
    SUCCESS: 'success',
-   FAILED: 'failes',
+   FAILED: 'failed',
 }
 
 module.exports = {
